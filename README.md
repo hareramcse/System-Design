@@ -12,7 +12,7 @@ This repository contains System Design resources which are useful to learn conce
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
-- [Consistent Hashing](https://medium.com/@sandeep4.verma/consistent-hashing-8eea3fb4a598)
+- [Consistent Hashing](https://medium.com/@hareramcse/consistent-hashing-ff23c1aefd0a)
 - [Database Index](https://www.progress.com/tutorials/odbc/using-indexes)
 - [Rate Limiting](https://tech.groww.in/rate-limiter-and-its-algorithms-with-illustrations-564455162935)
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
