@@ -9,7 +9,7 @@ This repository contains System Design resources which are useful to learn conce
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
-- [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
+- [Load Balancing](https://medium.com/@hareramcse/load-balancer-f2abef52bcd6)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
 - [Consistent Hashing](https://medium.com/@hareramcse/consistent-hashing-ff23c1aefd0a)
