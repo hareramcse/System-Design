@@ -41,6 +41,8 @@ This repository contains System Design resources which are useful to learn conce
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 - [Communication](https://medium.com/@hareramcse/communication-feaf629fa3d4)
+- [Others]
+    *[Powers of two table]
 
 
 ## System Design Interview Problems
