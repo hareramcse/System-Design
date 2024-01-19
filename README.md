@@ -13,7 +13,7 @@ This repository contains System Design resources which are useful to learn conce
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
 - [Consistent Hashing](https://medium.com/@hareramcse/consistent-hashing-ff23c1aefd0a)
 - [Database Index](https://www.progress.com/tutorials/odbc/using-indexes)
-- [Rate Limiting](https://tech.groww.in/rate-limiter-and-its-algorithms-with-illustrations-564455162935)
+- [Rate Limiting](https://medium.com/@hareramcse/rate-limiting-cc6702fed0ed)
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices)
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
