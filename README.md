@@ -31,7 +31,7 @@ This repository contains System Design resources which are useful to learn conce
 - [Failover](https://avinetworks.com/glossary/failover/)
 - [Proxy Server](https://medium.com/@hareramcse/proxy-server-d390bc83f3a9)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
-- [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
+- [Message Queues](https://medium.com/@hareramcse/asynchronism-48055cd8f441)
 - [WebSockets](https://medium.com/@hareramcse/websockets-74244f33bff4)
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
