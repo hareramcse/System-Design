@@ -4,8 +4,7 @@ This repository contains System Design resources which are useful to learn conce
 ## System Design Fundamentals
 
 - [Content Delivery Network (CDN)](https://medium.com/@hareramcse/content-delivery-network-cdn-499cdbfffee8)
-- [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
-- [Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
+- [Caching](https://medium.com/@hareramcse/caching-da64dfa00b3c)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
