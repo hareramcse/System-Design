@@ -42,7 +42,7 @@ This repository contains System Design resources which are useful to learn conce
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 - [Communication](https://medium.com/@hareramcse/communication-feaf629fa3d4)
 - [Others]
-    *[Powers of two table]
+   * [Powers of two tables](https://medium.com/@hareramcse/powers-of-two-table-93ffd7ffef29)
 
 
 ## System Design Interview Problems
