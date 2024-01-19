@@ -32,7 +32,7 @@ This repository contains System Design resources which are useful to learn conce
 - [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
-- [WebSockets](https://www.pubnub.com/guides/websockets/)
+- [WebSockets](https://medium.com/@hareramcse/websockets-74244f33bff4)
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
