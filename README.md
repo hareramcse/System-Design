@@ -17,6 +17,7 @@ This repository contains System Design resources which are useful to learn conce
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices)
 - [Consistency](https://medium.com/@hareramcse/consistency-1a80d8d63580)
+- [Availablity](https://medium.com/@hareramcse/availability-3fab0b35b699)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
 - [Batch Processing vs Stream Processing](https://atlan.com/batch-processing-vs-stream-processing/)
 - [HeartBeat](https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html)
