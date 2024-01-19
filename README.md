@@ -29,7 +29,7 @@ This repository contains System Design resources which are useful to learn conce
 - [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 - [Failover](https://avinetworks.com/glossary/failover/)
-- [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
+- [Proxy Server](https://medium.com/@hareramcse/proxy-server-d390bc83f3a9)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
 - [WebSockets](https://medium.com/@hareramcse/websockets-74244f33bff4)
